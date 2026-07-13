@@ -1,0 +1,17 @@
+{
+  "name": "Good Burger",
+  "short_name": "Good Burger",
+  "description": "Cardápio online da Good Burger.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff9df",
+  "theme_color": "#d9281c",
+  "icons": [
+    {
+      "src": "/assets/goodburger/logo.jpg",
+      "sizes": "225x225",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `order_status` text DEFAULT 'pending_payment' NOT NULL;

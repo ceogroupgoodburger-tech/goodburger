@@ -1,0 +1,677 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "fe566fac0a1b7ce2",
+      "kind": "image",
+      "name": "item_no_image-DJEgmuUL.png",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\fe566fac0a1b7ce2.png",
+      "url": "https://pedido.anota.ai/assets/item_no_image-DJEgmuUL.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0a222d384d420ad0",
+      "kind": "image",
+      "name": "-1769549491358blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\0a222d384d420ad0.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1769549491358blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dfb2c1b4fbab39bc",
+      "kind": "image",
+      "name": "-1769549532348blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\dfb2c1b4fbab39bc.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1769549532348blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "673e32d8cc0d2086",
+      "kind": "image",
+      "name": "-1774395154615blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\673e32d8cc0d2086.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1774395154615blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b55404149cf0b67f",
+      "kind": "image",
+      "name": "-1779492796039blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b55404149cf0b67f.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779492796039blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d1ff78cbca7060ad",
+      "kind": "image",
+      "name": "-1779493106318blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\d1ff78cbca7060ad.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779493106318blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c8653e72d4816844",
+      "kind": "image",
+      "name": "-1779493551841blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\c8653e72d4816844.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779493551841blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "08e9d4b736afc758",
+      "kind": "image",
+      "name": "-1779494737888blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\08e9d4b736afc758.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779494737888blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f653fceae47fa34f",
+      "kind": "image",
+      "name": "-1751579835752blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\f653fceae47fa34f.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751579835752blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "61a207022c00ff0c",
+      "kind": "image",
+      "name": "-1764978166275blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\61a207022c00ff0c.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764978166275blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8fda67b23ed7a314",
+      "kind": "image",
+      "name": "-1764977516102blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\8fda67b23ed7a314.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764977516102blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "faaaad5cc638803e",
+      "kind": "image",
+      "name": "-1764978781389blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\faaaad5cc638803e.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764978781389blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "59583eef9d9cfce9",
+      "kind": "image",
+      "name": "-1747269566410blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\59583eef9d9cfce9.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1747269566410blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a936e05439882fcc",
+      "kind": "image",
+      "name": "-1764978756292blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\a936e05439882fcc.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764978756292blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "108aa9d5ecbcc8ea",
+      "kind": "image",
+      "name": "-1764974685227blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\108aa9d5ecbcc8ea.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974685227blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b51cca2004860b3e",
+      "kind": "image",
+      "name": "-1764974403779blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b51cca2004860b3e.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974403779blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "904337ccc52f8a88",
+      "kind": "image",
+      "name": "-1764974603159blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\904337ccc52f8a88.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974603159blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e71159f97f27ab92",
+      "kind": "image",
+      "name": "-1764974751167blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\e71159f97f27ab92.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974751167blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fcdf048dc2fdfda4",
+      "kind": "image",
+      "name": "-1764974309038blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\fcdf048dc2fdfda4.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974309038blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4344641e6a98f1cb",
+      "kind": "image",
+      "name": "-1764979229877blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\4344641e6a98f1cb.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764979229877blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e1af9f6c35939141",
+      "kind": "image",
+      "name": "-1764979259772blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\e1af9f6c35939141.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764979259772blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1ab8fcd2f931585c",
+      "kind": "image",
+      "name": "-1764974075251blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\1ab8fcd2f931585c.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974075251blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2c1753c01e017ee5",
+      "kind": "image",
+      "name": "-1764974804991blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\2c1753c01e017ee5.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974804991blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ef6227544465a880",
+      "kind": "image",
+      "name": "-1764973899104blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ef6227544465a880.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764973899104blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d4723361f830c5f4",
+      "kind": "image",
+      "name": "-1764971798851blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\d4723361f830c5f4.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764971798851blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "aa99e9f9beadd12b",
+      "kind": "image",
+      "name": "-1764974160084blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\aa99e9f9beadd12b.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764974160084blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2ba8be4d724f6464",
+      "kind": "image",
+      "name": "-1764981085989blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\2ba8be4d724f6464.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764981085989blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e224a8b4ea6a1e96",
+      "kind": "image",
+      "name": "-1764981011230blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\e224a8b4ea6a1e96.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764981011230blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8f2b63e1ec530a55",
+      "kind": "image",
+      "name": "-1764979379883blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\8f2b63e1ec530a55.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764979379883blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "420ceec1a57146d2",
+      "kind": "image",
+      "name": "-1764980845850blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\420ceec1a57146d2.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764980845850blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "11c5882c82c44088",
+      "kind": "image",
+      "name": "-1765663978441blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\11c5882c82c44088.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765663978441blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "210113c84c1b4e67",
+      "kind": "image",
+      "name": "-1765663804691blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\210113c84c1b4e67.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765663804691blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a82c08cca45acd67",
+      "kind": "image",
+      "name": "-1765663403503blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\a82c08cca45acd67.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765663403503blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "988dbdbe00ee415b",
+      "kind": "image",
+      "name": "-1765662733562blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\988dbdbe00ee415b.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765662733562blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "18d54e8f31ffe991",
+      "kind": "image",
+      "name": "-1765057471581blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\18d54e8f31ffe991.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765057471581blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ec1d6762eadd4faa",
+      "kind": "image",
+      "name": "-1764972985369blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ec1d6762eadd4faa.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1764972985369blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a94189269f7a9b02",
+      "kind": "image",
+      "name": "-1765058395827blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\a94189269f7a9b02.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765058395827blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b97ec31011f87980",
+      "kind": "image",
+      "name": "-1765665269063blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b97ec31011f87980.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765665269063blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "349d9300f59db3df",
+      "kind": "image",
+      "name": "-1765665381812blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\349d9300f59db3df.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765665381812blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "78063e24043719cb",
+      "kind": "image",
+      "name": "-1765665439250blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\78063e24043719cb.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765665439250blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "511638f01a4f1255",
+      "kind": "image",
+      "name": "-1765665950714blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\511638f01a4f1255.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765665950714blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "be8e55a7f3641825",
+      "kind": "image",
+      "name": "-1765666489245blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\be8e55a7f3641825.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765666489245blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f9685c23cdde089d",
+      "kind": "image",
+      "name": "-1751581476098blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\f9685c23cdde089d.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751581476098blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "540bf76ab1789126",
+      "kind": "image",
+      "name": "-1751581552361blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\540bf76ab1789126.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751581552361blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9088fde537bf65fa",
+      "kind": "image",
+      "name": "-1765060403884blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\9088fde537bf65fa.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765060403884blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4da04037685fd5f1",
+      "kind": "image",
+      "name": "-1765060292089blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\4da04037685fd5f1.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765060292089blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ea95e4bd9c5878e6",
+      "kind": "image",
+      "name": "-1751582181182blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ea95e4bd9c5878e6.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751582181182blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "657401b468413ef9",
+      "kind": "image",
+      "name": "-1751582736478blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\657401b468413ef9.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751582736478blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8385ff28883fe93a",
+      "kind": "image",
+      "name": "-1765060386446blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\8385ff28883fe93a.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765060386446blob.webp"
+    },
+    {
+      "contentType": "image/png",
+      "id": "58c8f52e250b16fd",
+      "kind": "image",
+      "name": "-1744407743741blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\58c8f52e250b16fd.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1744407743741blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ab2290dbe9ebaa43",
+      "kind": "image",
+      "name": "-1751582847776blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ab2290dbe9ebaa43.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751582847776blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b7cc6d3e1cd97a51",
+      "kind": "image",
+      "name": "-1751582932289blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b7cc6d3e1cd97a51.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751582932289blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7a9e10848407cfba",
+      "kind": "image",
+      "name": "-1751583369627blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\7a9e10848407cfba.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751583369627blob.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8ee2674e983832e9",
+      "kind": "image",
+      "name": "-1751583405733blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\8ee2674e983832e9.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751583405733blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b3bcf6516867f22b",
+      "kind": "image",
+      "name": "-1751582887824blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b3bcf6516867f22b.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751582887824blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f2218a54a3beb4ef",
+      "kind": "image",
+      "name": "-1751583241881blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\f2218a54a3beb4ef.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751583241881blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7fcb12502631cc86",
+      "kind": "image",
+      "name": "-1765057816501blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\7fcb12502631cc86.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765057816501blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "43fe1eb391c84145",
+      "kind": "image",
+      "name": "-1751579891205blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\43fe1eb391c84145.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1751579891205blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3960a0421cb14ef2",
+      "kind": "image",
+      "name": "-1765057957188blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\3960a0421cb14ef2.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1765057957188blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "17055cecc90d3946",
+      "kind": "image",
+      "name": "-1781046092471blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\17055cecc90d3946.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1781046092471blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4800cfc2602382b0",
+      "kind": "image",
+      "name": "-1781046370980blob.webp",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\4800cfc2602382b0.webp",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1781046370980blob.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cceae2eba43e7bc4",
+      "kind": "image",
+      "name": "Good%20Burger1689119433445blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\cceae2eba43e7bc4",
+      "url": "https://staginganotaai.s3.us-west-2.amazonaws.com/produtos/Good%20Burger1689119433445blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "eedaa8a9dce4c69b",
+      "kind": "image",
+      "name": "-1779493551841blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\eedaa8a9dce4c69b",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779493551841blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b89f66e144060fea",
+      "kind": "image",
+      "name": "-1779494737888blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\b89f66e144060fea",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779494737888blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d26c1679be47c0b3",
+      "kind": "image",
+      "name": "-1774395154615blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\d26c1679be47c0b3",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1774395154615blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ab37e6db7d0e86db",
+      "kind": "image",
+      "name": "-1769549491358blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ab37e6db7d0e86db",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1769549491358blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2a5f86a06e2338e2",
+      "kind": "image",
+      "name": "-1769549532348blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\2a5f86a06e2338e2",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1769549532348blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "916955e816f7a279",
+      "kind": "image",
+      "name": "-1779492796039blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\916955e816f7a279",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779492796039blob"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "24933f3f103a1c2c",
+      "kind": "image",
+      "name": "-1779493106318blob",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\24933f3f103a1c2c",
+      "url": "https://client-assets.anota.ai/produtos/64ab0aff67e7280019b80d92/-1779493106318blob"
+    },
+    {
+      "contentType": "image/png",
+      "id": "d7aaada11f0c067b",
+      "kind": "image",
+      "name": "online-pix-6ZxZyPXt.png",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\d7aaada11f0c067b.png",
+      "url": "https://pedido.anota.ai/assets/online-pix-6ZxZyPXt.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4a9af1c4578269f2",
+      "kind": "image",
+      "name": "cashback-pix-CVR0yZlh.png",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\4a9af1c4578269f2.png",
+      "url": "https://pedido.anota.ai/assets/cashback-pix-CVR0yZlh.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "473a3a2584670b6b",
+      "kind": "image",
+      "name": "favicon.png",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\473a3a2584670b6b.png",
+      "url": "https://pedido.anota.ai/favicon.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0949b7c3ea55d68d",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\0949b7c3ea55d68d.svg",
+      "url": "inline-svg:0949b7c3ea55d68d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "42e49af92c45791b",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\42e49af92c45791b.svg",
+      "url": "inline-svg:42e49af92c45791b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "208156458a39381d",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\208156458a39381d.svg",
+      "url": "inline-svg:208156458a39381d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b790030384a6bed",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\3b790030384a6bed.svg",
+      "url": "inline-svg:3b790030384a6bed"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9728b381007c1acf",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\9728b381007c1acf.svg",
+      "url": "inline-svg:9728b381007c1acf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dc233791e4b00983",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\dc233791e4b00983.svg",
+      "url": "inline-svg:dc233791e4b00983"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ab1a3675190afbfb",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\ab1a3675190afbfb.svg",
+      "url": "inline-svg:ab1a3675190afbfb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0013c506e341de47",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\0013c506e341de47.svg",
+      "url": "inline-svg:0013c506e341de47"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2e47e21c818b0da2",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\2e47e21c818b0da2.svg",
+      "url": "inline-svg:2e47e21c818b0da2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9bda8c521dfbec15",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\9bda8c521dfbec15.svg",
+      "url": "inline-svg:9bda8c521dfbec15"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "84d9784b85db9cd0",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\Acer\\AppData\\Local\\Temp\\browser-use\\assets\\5d95a586-fd3c-4fa9-909d-8f111a3d103b\\84d9784b85db9cd0.svg",
+      "url": "inline-svg:84d9784b85db9cd0"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "16ee4642957f601c",
+      "name": "c.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at hH (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://c.clarity.ms/c.gif"
+    }
+  ]
+}
