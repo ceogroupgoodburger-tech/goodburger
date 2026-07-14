@@ -10,7 +10,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     metadataBase: baseUrl,
-    title: "Good Burger | Peça online",
+    title: "GOOD BURGER - A Casa do Hambúrguer!",
     description: "Cardápio online da Good Burger: hambúrgueres, porções, combos e bebidas.",
     manifest: "/manifest.json",
     icons: {
@@ -18,7 +18,7 @@ export async function generateMetadata(): Promise<Metadata> {
       shortcut: "/assets/goodburger/logo.jpg",
     },
     openGraph: {
-      title: "Good Burger | Peça online",
+      title: "GOOD BURGER - A Casa do Hambúrguer!",
       description: "Hambúrgueres, combos, porções e bebidas em Guarapari.",
       type: "website",
       url: baseUrl,
@@ -26,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: "Good Burger | Peça online",
+      title: "GOOD BURGER - A Casa do Hambúrguer!",
       description: "Hambúrgueres, combos, porções e bebidas em Guarapari.",
       images: [new URL("/og.png", baseUrl)],
     },

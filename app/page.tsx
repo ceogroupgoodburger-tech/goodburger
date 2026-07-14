@@ -681,8 +681,8 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen w-full overflow-x-hidden bg-[#fff7e8] pb-24 text-[#211711] lg:pb-0">
-      <header className="sticky top-0 z-30 border-b border-[#ead8bc] bg-[#fff7e8]/94 backdrop-blur">
+    <main className="min-h-screen w-full overflow-x-hidden bg-[#fff0b8] pb-24 text-[#211711] lg:pb-0">
+      <header className="sticky top-0 z-30 border-b border-[#e5c96f] bg-[#fff0b8]/94 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-2 px-3 py-2 sm:gap-3 sm:px-4 sm:py-3">
           <a href="#" className="flex min-w-0 items-center gap-2 sm:gap-3">
             <img
@@ -694,7 +694,9 @@ export default function Home() {
               <p className="hidden text-[10px] font-black uppercase tracking-[0.14em] text-[#8f1f23] min-[380px]:block sm:text-[11px] sm:tracking-[0.2em]">
                 Fast food
               </p>
-              <h1 className="truncate text-lg font-black tracking-tight sm:text-xl">Good Burger</h1>
+              <h1 className="max-w-[190px] text-sm font-black leading-tight tracking-tight sm:max-w-none sm:text-xl">
+                GOOD BURGER - A Casa do Hambúrguer!
+              </h1>
             </div>
           </a>
           <a
@@ -931,7 +933,7 @@ export default function Home() {
               </div>
             ) : (
               <p className="rounded-md border border-dashed border-[#d8c2a3] p-4 text-sm leading-6 text-[#6c5542]">
-                Ex aceita desculpa. Aqui só aceita pedido.
+                Seu pedido está vazio. Adicione um item do cardápio.
               </p>
             )}
 
